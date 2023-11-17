@@ -1,10 +1,10 @@
-# SDV602_milestone2_bailey-Long
+# SDV602_milestone3_bailey-Long
 Assignment 2 for sdv602  
 
 ## How to run the app  
 
 ### Setup Virtual Environment  
-Make sure you are in the project directory ```SDV602_milestone2_bailey-Long```  
+Make sure you are in the project directory ```SDV602_milestone3_bailey-Long```  
 Run the command ```python -m venv venv```  
 Activate the venv by inputing ```source venv/Scripts/activate```  
 ### Install libraries  
